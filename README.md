@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis
+# Pizza Sales Analysis
 
 ![](images/pizza.jpg)
 <br>

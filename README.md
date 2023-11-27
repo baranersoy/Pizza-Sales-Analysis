@@ -254,8 +254,8 @@ ORDER BY Total_Orders ASC
           BLANK())
  <br>
  
-## DAX Measures
-The next step is to visualize the data, making it more comprehensible and facilitating clear interpretations. Power BI is the one of the best visualization tools in the world for the data analysis process. In this is project, Power BI was used for data visualization. Before starting to create dashboard, DAX measures were created to enhance the formation of charts and cards for visualization. DAX measures for this project are as follow: 
+## Measures Created
+The next step is to visualize the data, making it more comprehensible and facilitating clear interpretations. Power BI is the one of the best visualization tools in the world for the data analysis process. In this is project, Power BI was used for data visualization. Before starting to create dashboard, measures were created to enhance the formation of charts and cards for visualization. Measures for this project are as follow: 
  <br>
 
  

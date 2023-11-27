@@ -290,7 +290,7 @@ No modeling was necessary as we only needed a table for analysis.
 <br>
 
 ## Analysis & Visualization
-After the creation of the DAX measures, the dashboard was compeleted. First page of the dashboard shows the total orders and sales figures in various category. Second page of the dashboard shows top 5 and bottom 5 best-selling pizzas by different category.
+After the creation of the measures, the dashboard was compeleted. First page of the dashboard shows the total orders and sales figures in various category. Second page of the dashboard shows top 5 and bottom 5 best-selling pizzas by different category.
 <br>
 <br>
 

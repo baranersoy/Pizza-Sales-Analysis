@@ -341,11 +341,18 @@ The insights obtained from the dashboard are as follows:
 ![](images/thank_you.jpg)
 <br>
 
-This documentation has been prepared to help you understand the project effectively. If you have any questions or feedback, please don't hesitate to let me know.
+This documentation has been prepared to help you understand the project effectively. If you have any questions or feedback, please don't hesitate to let me know. You can reach me through my linkedin profile.
+
 Thank you for your time and consideration!
 <br>
 
 Reference: https://www.youtube.com/watch?v=V-s8c6jMRN0&list=WL&index=11&t=775s
+
+My Website: https://ersoydatainsights.wixsite.com/my-site
+
+My Linkedin Page: https://www.linkedin.com/in/baran-ersoy/
+
+
 
 <br>
 <br>
